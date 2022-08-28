@@ -1,0 +1,52 @@
+{
+    "data": [{
+            "month_name": "January",
+            "close_day": "03"
+        },
+        {
+            "month_name": "February",
+            "close_day": "16"
+        },
+        {
+            "month_name": "March",
+            "close_day": "NO"
+        },
+        {
+            "month_name": "April",
+            "close_day": "06/13/14/15"
+        },
+        {
+            "month_name": "May",
+            "close_day": "02/04/16"
+        },
+        {
+            "month_name": "June",
+            "close_day": "03"
+        },
+        {
+            "month_name": "July",
+            "close_day": "13/28/29"
+        },
+        {
+            "month_name": "August",
+            "close_day": "12"
+        },
+        {
+            "month_name": "September",
+            "close_day": "NO"
+        },
+        {
+            "month_name": "October",
+            "close_day": "13/14/24"
+        },
+        {
+            "month_name": "November",
+            "close_day": "NO"
+        },
+        {
+            "month_name": "December",
+            "close_day": "05/12"
+        }
+
+    ]
+}
